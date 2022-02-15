@@ -1,0 +1,1 @@
+Utilize a Ajuda do Typora para verificar os *~markidowns references~* e ter a lista completas de configurações possíveis.
